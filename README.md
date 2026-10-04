@@ -3,7 +3,7 @@
 Senior Solutions Engineer at [OptioAI](https://optioai.tech) in Singapore. I own architecture and delivery for production AI (chatbots, agentic assistants and analytics platforms) for enterprise and government clients in Singapore, Malaysia, the UAE, Saudi Arabia and Qatar.
 
 - **8 production AI systems** delivered since Nov 2024 (5 chatbot and agentic, 3 analytics), from pre-sales scoping to handover, including as AI lead directing a client's own team of 15–20 engineers.
-- **Rally**, the AI assistant OptioAI built for Aspire Zone Foundation (Qatar): won Google Cloud's Transformative AI Application Excellence Award, Doha 2025.
+- **Rally**, the AI assistant OptioAI built for Aspire Zone Foundation (Qatar): won Google Cloud's Transformative AI Application Excellence Award at Google Cloud Summit Doha, May 2025 ([announcement](https://aspirezone.qa/en/media-centre/news/aspire-zone-foundation-wins-excellence-award-for-transformational-ai-implementation)).
 - **Newton**, an agentic AI platform: load tests showed one 8-vCPU node serving 60 concurrent conversations, and prompt and Redis caching cut LLM costs by over 60%. [Try the demo](https://optio.caecinax.com/demo/newton/)
 - **VoltFlow**, an EV fleet charging optimiser for a Singapore charge point operator, built on AMPECO. [Try the demo](https://optio.caecinax.com/demo/voltflow/)
 
